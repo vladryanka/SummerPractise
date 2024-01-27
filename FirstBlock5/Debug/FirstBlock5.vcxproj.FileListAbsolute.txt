@@ -1,0 +1,4 @@
+C:\Users\ASUS\Desktop\Занятия\Учебная практика\FirstBlock5\Debug\FirstBlock5.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Занятия\Учебная практика\FirstBlock5\Debug\FirstBlock5.MyForm.resources
+C:\Users\ASUS\Desktop\Занятия\Учебная практика\FirstBlock5\Debug\FirstBlock5.vcxproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Занятия\Учебная практика\FirstBlock5\Debug\FirstBlock5.exe
